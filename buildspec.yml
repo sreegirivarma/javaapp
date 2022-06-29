@@ -19,4 +19,4 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - 'target/.jar'
+    - 'target/my-application1.jar'
